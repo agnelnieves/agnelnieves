@@ -4,7 +4,9 @@
 
 <!--
 **agnelnieves/agnelnieves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-**Reference** https://github.com/anuraghazra/github-readme-stats
+**Reference** 
+https://github.com/anuraghazra/github-readme-stats
+https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
 
 Here are some ideas to get you started:
 

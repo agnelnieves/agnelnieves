@@ -2,7 +2,7 @@
 
 ![Agnel's GitHub stats](https://github-readme-stats.vercel.app/api?username=agnelnieves&count_private=true&theme=dark&show_icons=true)
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/agnelnieves/agnelnieves/devcard.svg" width="400" alt="Agnel Nieve's Dev Card"/></a>
+<a href="https://app.daily.dev/agnelnieves"><img src="https://github.com/agnelnieves/agnelnieves/blob/main/devcard.svg" width="400" alt="Agnel Nieves's Dev Card"/></a>
 
 <!--
 **agnelnieves/agnelnieves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,21 +1,12 @@
-# Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=agnelnieves)
+
+# Wepa! Hi there 👋
+
+<img align="right" src="https://komarev.com/ghpvc/?username=agnelnieves"/>
+
+[![](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fagnelnieves)](https://twitter.com/agnelnieves) [![](https://img.shields.io/twitter/url?label=Medium&logo=medium&style=social&url=https%3A%2F%2Fmedium.com%2F%40agnelnieves)](https://medium.com/@agnelnieves) [![](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https%3A%2F%2Finstagram.com%2Fagnelnieves)](https://instagram.com/agnelnieves) [![](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fagnelnieves%2F)](https://www.linkedin.com/in/agnelnieves/) [![](https://img.shields.io/twitter/url?label=Website&logo=google%20chrome&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fagnelnieves%2F)](https://agnelnieves.com/links)
 
 <div align="left">
-  <a href="https://twitter.com/agnelnieves">
-    <img
-      src="https://img.shields.io/twitter/follow/agnelnieves?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/agnelnieves/">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
-
   <a href="https://api.daily.dev/get?r=agnelnieves" target="_blank">
     <img
       width="256"

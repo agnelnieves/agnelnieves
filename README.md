@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=agnelnieves)
+
 <div align="left">
   <a href="https://twitter.com/agnelnieves">
     <img

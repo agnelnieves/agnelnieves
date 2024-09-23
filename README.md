@@ -15,8 +15,7 @@
     />
   </a>-->
 
-  <a href="https://app.daily.dev/agnelnieves"><img src="https://api.daily.dev/devcards/v2/fe34f2db8ad94f228199346b609a62e2.png?type=default&r=4r9" width="356" alt="Agnel Nieves's Dev Card"/></a>
-
+<a href="https://app.daily.dev/agnelnieves"><img src="https://api.daily.dev/devcards/v2/fe34f2db8ad94f228199346b609a62e2.png?type=default&r=4r9" width="356" alt="Agnel Nieves's Dev Card"/></a>
 
 <!--
 **agnelnieves/agnelnieves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

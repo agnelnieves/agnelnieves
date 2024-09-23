@@ -4,24 +4,16 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=agnelnieves"/>
 
-[![](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fagnelnieves)](https://twitter.com/agnelnieves) [![](https://img.shields.io/twitter/url?label=Medium&logo=medium&style=social&url=https%3A%2F%2Fmedium.com%2F%40agnelnieves)](https://medium.com/@agnelnieves) [![](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https%3A%2F%2Finstagram.com%2Fagnelnieves)](https://instagram.com/agnelnieves) [![](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fagnelnieves%2F)](https://www.linkedin.com/in/agnelnieves/) [![](https://img.shields.io/twitter/url?label=Website&logo=google%20chrome&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fagnelnieves%2F)](https://agnelnieves.com/links)
+[![](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fagnelnieves)](https://x.com/agnelnieves) [![](https://img.shields.io/twitter/url?label=Medium&logo=medium&style=social&url=https%3A%2F%2Fmedium.com%2F%40agnelnieves)](https://medium.com/@agnelnieves) [![](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fagnelnieves%2F)](https://www.linkedin.com/in/agnelnieves/)
 
-<div align="left">
+
   <a href="https://api.daily.dev/get?r=agnelnieves" target="_blank">
     <img
       width="256"
-      align="right"
       src="https://github.com/agnelnieves/agnelnieves/blob/main/devcard.svg"
       alt="Agnel Nieves's Dev Card"
     />
   </a>
-</div>
-
-<br />
-
-![Agnel's GitHub stats](https://github-readme-stats.vercel.app/api?username=agnelnieves&count_private=true&theme=dark&show_icons=true)
-
-![Metrics](https://raw.githubusercontent.com/agnelnieves/agnelnieves/github-metrics/github-metrics.svg)
 
 
 <!--

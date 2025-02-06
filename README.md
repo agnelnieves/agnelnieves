@@ -1,11 +1,14 @@
 
 
-# Wepa! Hi there 👋
 
-<img align="right" src="https://komarev.com/ghpvc/?username=agnelnieves"/>
+
+
+
+<!-- 
 
 [![](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fagnelnieves)](https://x.com/agnelnieves) [![](https://img.shields.io/twitter/url?label=Medium&logo=medium&style=social&url=https%3A%2F%2Fmedium.com%2F%40agnelnieves)](https://medium.com/@agnelnieves) [![](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fagnelnieves%2F)](https://www.linkedin.com/in/agnelnieves/)
 
+-->
 
   <!--<a href="https://api.daily.dev/get?r=agnelnieves" target="_blank">
     <img
@@ -15,7 +18,10 @@
     />
   </a>-->
 
-<a href="https://app.daily.dev/agnelnieves"><img src="https://api.daily.dev/devcards/v2/fe34f2db8ad94f228199346b609a62e2.png?type=default&r=4r9" width="356" alt="Agnel Nieves's Dev Card"/></a>
+![image](https://github.com/user-attachments/assets/b86d0297-3f96-420e-9ff6-c76aa4df7160)
+
+<img align="right" src="https://komarev.com/ghpvc/?username=agnelnieves"/>
+
 
 <!--
 **agnelnieves/agnelnieves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

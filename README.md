@@ -18,7 +18,8 @@
     />
   </a>-->
 
-![image](https://github.com/user-attachments/assets/b86d0297-3f96-420e-9ff6-c76aa4df7160)
+![image](https://github.com/user-attachments/assets/cc505638-c35e-478a-9526-c64a8355cfb0)
+
 
 <img align="right" src="https://komarev.com/ghpvc/?username=agnelnieves"/>
 
